@@ -1,0 +1,116 @@
+body{
+    margin: 0; 
+    background: white;
+
+}
+
+.googleimg{
+    margin-top: 10px;
+    width: 100px;
+    
+}
+
+
+
+form{
+    position: absolute;
+    right: 50%;
+    border: 1px solid grey;
+    padding: 30px;
+    width: 500px;
+}
+
+h3{
+   
+    position: relative;
+    margin: 0;
+    font-size: 23px;
+    font-family: jost;
+    letter-spacing: 1px;
+}
+
+input{
+    border: 1px solid grey;
+    height: 35px;
+    padding: 0 10px;
+    font-size: 15px;
+    border-radius: 3px;
+    outline: none;
+}
+
+input:focus {
+    border: 1.5px solid blue;
+}
+
+.name{
+    display: inline-block;
+
+}
+
+input[type="name"]{
+    display: block;
+    margin: 10px 0 0 0px;
+}
+
+input[type="username"]{
+    display:block;
+    margin: 10px 0 0 0px;
+    width: 390px;
+}
+
+.gmail{
+    position: relative;
+    display: block;
+    top: -30px;
+    left: 320px;
+    font-family: Roboto;
+    color: grey;
+
+}
+
+.password{
+    display: block;
+    width: 140px;
+    margin: 10px 0 0 0px;
+
+}
+
+.passw{
+    display: inline-block;
+}
+
+a{
+    display: block;
+    position: relative;
+    font-family: roboto;
+    text-decoration: none;
+}
+
+.sentence1{
+    font-size: 13px;
+    margin: -5px 0 0 15px;
+    color: grey;
+}
+
+.sentence2{
+    color: blue;
+    font-size: 15px;
+    margin: 20px 0 10px 0px;
+
+}
+
+.sentence3{
+       color: grey;
+       font-size: 13px;
+       margin: 5px 0 0 15px;
+
+}
+
+label{
+    position: relative
+    
+
+}
+
+
+
